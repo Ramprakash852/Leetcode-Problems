@@ -1,13 +1,13 @@
 class Solution {
     public int concatenatedBinary(int n) {
-        String str = "";
-        int mod = 1000000007;
+        final int MOD = 1_000_000_007;
+        long res = 0;
+        int bits = 0;
+
         for(int i=1; i<=n; i++){
-            str+=Integer.toBinaryString(i);
-            long val = Long.parseLong(str,2);
-            val = val%mod;
-            str = Long.toBinaryString(val);
+            if((i & (i-1)) == 0) bits++;
+            res = ((res<<bits) | i) % MOD;
         }
-        return (int)Long.parseLong(str,2);
+        return (int)res;
     }
 }
