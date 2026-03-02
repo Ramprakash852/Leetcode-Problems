@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -15,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
