@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
