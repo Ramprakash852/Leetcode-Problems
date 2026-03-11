@@ -37,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 <!---LeetCode Topics End-->
