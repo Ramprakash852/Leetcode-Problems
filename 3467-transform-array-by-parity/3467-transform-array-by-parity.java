@@ -14,7 +14,6 @@ class Solution {
                 nums[i]=1;
             }
         }
-        return nums;
-        
+        return nums;     
     }
 }
