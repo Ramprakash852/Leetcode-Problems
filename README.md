@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sliding Window
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3668-restore-finishing-order](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3668-restore-finishing-order/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
