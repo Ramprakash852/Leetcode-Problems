@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
