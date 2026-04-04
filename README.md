@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2751-robot-collisions](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -188,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 <!---LeetCode Topics End-->
