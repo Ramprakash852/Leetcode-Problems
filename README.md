@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
