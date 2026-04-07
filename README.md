@@ -207,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
