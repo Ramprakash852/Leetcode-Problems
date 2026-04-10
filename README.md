@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Design
 | Problem Name | Difficulty |
