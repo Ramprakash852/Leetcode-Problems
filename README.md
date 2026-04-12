@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
