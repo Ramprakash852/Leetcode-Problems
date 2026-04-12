@@ -14,9 +14,9 @@ class Solution {
         }
         
         Arrays.sort(ans, (a, b) -> {
-            String order1 = a + b;
-            String order2 = b + a;
-            return order2.compareTo(order1);
+            String segment1 = a + b;
+            String segment2 = b + a;
+            return segment2.compareTo(segment1);
         });
         
         long result = 0;
