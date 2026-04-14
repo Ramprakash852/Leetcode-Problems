@@ -1,4 +1,6 @@
 class Solution {
+    long[][] dp;
+
     public long minimumTotalDistance(List<Integer> robot, int[][] factory) {
         Collections.sort(robot);
         Arrays.sort(factory, (a, b) -> a[0] - b[0]);
@@ -6,30 +8,36 @@ class Solution {
         int n = robot.size();
         int m = factory.length;
 
-        long INF = (long)1e18;
-        long[][] dp = new long[n + 1][m + 1];
+        dp = new long[n][m];
+        for (long[] row : dp) Arrays.fill(row, -1);
 
-        for (int i = 0; i <= n; i++)
-            Arrays.fill(dp[i], INF);
+        return solve(0, 0, robot, factory);
+    }
 
-        for (int j = 0; j <= m; j++)
-            dp[0][j] = 0;
+    private long solve(int i, int j, List<Integer> robot, int[][] factory) {
+        int n = robot.size();
+        int m = factory.length;
 
-        for (int j = 1; j <= m; j++) {
-            int pos = factory[j - 1][0];
-            int limit = factory[j - 1][1];
+        // all robots assigned
+        if (i == n) return 0;
 
-            for (int i = 0; i <= n; i++) {
-                dp[i][j] = dp[i][j - 1];
+        // no factory left
+        if (j == m) return (long)1e15;
 
-                long dist = 0;
-                for (int k = 1; k <= limit && i - k >= 0; k++) {
-                    dist += Math.abs(robot.get(i - k) - pos);
-                    dp[i][j] = Math.min(dp[i][j], dp[i - k][j - 1] + dist);
-                }
-            }
+        if (dp[i][j] != -1) return dp[i][j];
+
+        long res = solve(i, j + 1, robot, factory); // skip factory
+
+        long cost = 0;
+        int pos = factory[j][0];
+        int limit = factory[j][1];
+
+        // assign k robots to this factory
+        for (int k = 0; k < limit && i + k < n; k++) {
+            cost += Math.abs(robot.get(i + k) - pos);
+            res = Math.min(res, cost + solve(i + k + 1, j + 1, robot, factory));
         }
 
-        return dp[n][m];
+        return dp[i][j] = res;
     }
 }
