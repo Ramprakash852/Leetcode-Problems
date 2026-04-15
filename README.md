@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
