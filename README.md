@@ -246,4 +246,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 <!---LeetCode Topics End-->
