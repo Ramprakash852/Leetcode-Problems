@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1664-ways-to-make-a-fair-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1664-ways-to-make-a-fair-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
