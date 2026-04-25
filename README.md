@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Hash Table
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Linked List
@@ -295,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 <!---LeetCode Topics End-->
