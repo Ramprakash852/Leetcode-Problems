@@ -12,8 +12,8 @@ class Solution {
         return left;
     }
     
-    public int check(int[] piles, int k) {
-        int hours = 0;
+    public long check(int[] piles, int k) {
+        long hours = 0;
         for (int p: piles) {
             hours += p/ k;
             if (p % k > 0) hours++;
