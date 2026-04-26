@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
