@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0396-rotate-function](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0396-rotate-function/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0396-rotate-function/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0396-rotate-function](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0396-rotate-function/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
