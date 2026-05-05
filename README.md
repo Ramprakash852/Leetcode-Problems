@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0061-rotate-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
