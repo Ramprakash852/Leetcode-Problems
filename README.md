@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1590-make-sum-divisible-by-p](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
