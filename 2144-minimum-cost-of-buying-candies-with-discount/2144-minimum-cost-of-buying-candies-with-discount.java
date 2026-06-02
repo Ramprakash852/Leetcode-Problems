@@ -4,9 +4,9 @@ class Solution {
         Arrays.sort(cost);
         int res = 0;
         int n = cost.length;
-        for (int i = n - 1; i >= 0; --i) {
-            if ((n - 1 - i) % 3 != 2) {
-                res += cost[i];
+        for (int i = n - 1; i >= 0; i--) {
+            if((n-i-1)%3 !=2) {
+                res +=cost[i];
             }
         }
         return res;
