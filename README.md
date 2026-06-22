@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
