@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3467-transform-array-by-parity](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -315,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -350,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3660-jump-game-ix/) | Medium |
@@ -407,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -510,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
