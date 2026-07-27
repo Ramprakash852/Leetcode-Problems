@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
