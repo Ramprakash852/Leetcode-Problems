@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -379,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -561,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
