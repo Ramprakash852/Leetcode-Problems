@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
