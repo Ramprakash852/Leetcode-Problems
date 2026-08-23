@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1927-sum-game](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1927-sum-game](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -658,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1563-stone-game-v](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
