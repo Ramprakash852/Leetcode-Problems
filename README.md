@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
