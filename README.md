@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -570,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
@@ -664,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
