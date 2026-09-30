@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -772,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
