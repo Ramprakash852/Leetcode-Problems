@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
