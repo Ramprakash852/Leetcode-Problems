@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -714,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -753,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
