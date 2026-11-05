@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -683,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
