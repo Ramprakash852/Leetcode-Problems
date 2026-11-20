@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
