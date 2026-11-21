@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -773,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -788,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
