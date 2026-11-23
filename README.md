@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1267-count-servers-that-communicate](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -757,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -962,4 +966,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
