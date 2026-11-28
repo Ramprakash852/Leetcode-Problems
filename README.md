@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3934-smallest-unique-subarray](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -589,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -886,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Ramprakash852/Leetcode-Problems/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
